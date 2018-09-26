@@ -1,0 +1,3 @@
+example:
+  organization:
+    property: "I am the default organization service"
