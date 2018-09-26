@@ -13,6 +13,7 @@
     <modules>
         <module>eurekasvr</module>
         <module>organizationsvr</module>
+        <module>licensingsvr</module>
     </modules>
 
     <parent>
