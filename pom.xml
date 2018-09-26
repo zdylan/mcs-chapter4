@@ -14,6 +14,7 @@
         <module>eurekasvr</module>
         <module>organizationsvr</module>
         <module>licensingsvr</module>
+        <module>confsvr</module>
     </modules>
 
     <parent>
